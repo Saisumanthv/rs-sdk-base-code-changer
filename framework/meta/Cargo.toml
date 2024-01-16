@@ -1,0 +1,59 @@
+[package]
+name = "dharitri-sc-meta"
+version = "0.45.2"
+edition = "2021"
+
+authors = [
+    "Andrei Marinica <andrei.marinica@dharitri.com>",
+    "Dharitri <contact@dharitri.com>",
+]
+license = "GPL-3.0-only"
+readme = "README.md"
+repository = "https://github.com/dharitri/mx-sdk-rs"
+homepage = "https://dharitri.com/"
+documentation = "https://docs.dharitri.com/"
+description = "Dharitri smart contract meta-programming tools and build system"
+keywords = ["dharitri", "blockchain", "contract", "debug"]
+categories = ["cryptography::cryptocurrencies", "development-tools::debugging"]
+
+[[bin]]
+name = "sc-meta"
+path = "src/main.rs"
+required-features = ["standalone"]
+
+[features]
+standalone = ["ruplacer", "reqwest", "zip", "copy_dir", "pathdiff", "common-path"]
+template-test-current = []
+template-test-released = []
+
+# no other way to have a default feature in bin at the moment
+# contract meta crates should add `default-features = false`
+default = ["standalone"]
+
+[dependencies]
+clap = { version = "4.4.7", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+rustc_version = "0.4"
+toml = { version = "0.8.6", features = ["preserve_order"] }
+colored = "2.0"
+lazy_static = "1.4.0"
+convert_case = "0.6.0"
+hex = "0.4"
+wasmparser = "0.118.1"
+wasmprinter = "0.2.71"
+
+ruplacer = { version = "0.8.1", default-features = false, optional = true }
+reqwest = { version = "0.11.4", features = ["blocking", "json"], optional = true }
+zip = { version = "0.6.4", features = ["deflate"], default-features = false, optional = true }
+copy_dir = { version = "0.1.2", optional = true }
+pathdiff = { version = "0.2.1", optional = true }
+common-path = { version = "1.0.0", optional = true }
+
+[dependencies.dharitri-sc]
+version = "=0.45.2"
+path = "../base"
+features = ["alloc", "num-bigint", "promises"]
+
+[dev-dependencies]
+dharitri-sc-meta = { path = ".", features = ["standalone"] }

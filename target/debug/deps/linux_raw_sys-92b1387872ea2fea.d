@@ -1,0 +1,9 @@
+/home/sumanth/Desktop/project/mx-sdk-rs (renamed) (vs code renamed)/target/debug/deps/liblinux_raw_sys-92b1387872ea2fea.rmeta: /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/lib.rs /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/elf.rs /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/errno.rs /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/general.rs /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/ioctl.rs
+
+/home/sumanth/Desktop/project/mx-sdk-rs (renamed) (vs code renamed)/target/debug/deps/linux_raw_sys-92b1387872ea2fea.d: /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/lib.rs /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/elf.rs /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/errno.rs /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/general.rs /home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/ioctl.rs
+
+/home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/lib.rs:
+/home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/elf.rs:
+/home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/errno.rs:
+/home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/general.rs:
+/home/sumanth/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.12/src/x86_64/ioctl.rs:

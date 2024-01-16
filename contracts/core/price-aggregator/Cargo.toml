@@ -1,0 +1,36 @@
+[package]
+name = "dharitri-price-aggregator-sc"
+version = "0.45.2"
+authors = [
+    "Claudiu-Marcel Bruda <claudiu.bruda@dharitri.com>",
+    "Dharitri <contact@dharitri.com>",
+]
+license = "GPL-3.0-only"
+readme = "README.md"
+repository = "https://github.com/dharitri/mx-sdk-rs"
+homepage = "https://dharitri.com/"
+documentation = "https://docs.dharitri.com/"
+description = "Dharitri Price aggregator Smart Contract"
+keywords = ["dharitri", "wasm", "webassembly", "blockchain", "contract"]
+categories = ["no-std", "wasm", "cryptography::cryptocurrencies"]
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
+
+[dependencies.dharitri-sc]
+version = "0.45.2"
+path = "../../../framework/base"
+
+[dependencies.dharitri-sc-modules]
+version = "0.45.2"
+path = "../../../contracts/modules"
+
+[dev-dependencies.dharitri-sc-scenario]
+version = "0.45.2"
+path = "../../../framework/scenario"
+
+[dependencies]
+arrayvec = { version = "0.7.1", default-features = false }
+rand = { version = "0.8.5" }
+getrandom = { version = "0.2", features = ["js"] }

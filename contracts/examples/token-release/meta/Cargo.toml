@@ -1,0 +1,16 @@
+[package]
+name = "token-release-meta"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dev-dependencies]
+
+[dependencies.token-release]
+path = ".."
+
+[dependencies.dharitri-sc-meta]
+version = "0.45.2"
+path = "../../../../framework/meta"
+default-features = false
+

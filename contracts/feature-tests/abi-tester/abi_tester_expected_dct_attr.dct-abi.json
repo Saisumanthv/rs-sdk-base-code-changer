@@ -1,0 +1,23 @@
+{
+    "dctAttribute": {
+        "ticker": "OnlyInDct",
+        "type": "OnlyShowsUpInDctAttr"
+    },
+    "types": {
+        "OnlyShowsUpAsNested10": {
+            "type": "struct",
+            "docs": [
+                "Tests that the ABI generator also fetches types that only appear as fields."
+            ]
+        },
+        "OnlyShowsUpInDctAttr": {
+            "type": "struct",
+            "fields": [
+                {
+                    "name": "field",
+                    "type": "OnlyShowsUpAsNested10"
+                }
+            ]
+        }
+    }
+}

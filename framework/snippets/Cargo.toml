@@ -1,0 +1,30 @@
+[package]
+name = "dharitri-sc-snippets"
+version = "0.45.2"
+edition = "2021"
+
+authors = ["Dharitri <contact@dharitri.com>"]
+license = "GPL-3.0-only"
+readme = "README.md"
+repository = "https://github.com/dharitri/mx-sdk-rs"
+homepage = "https://dharitri.com/"
+documentation = "https://docs.dharitri.com/"
+description = "Dharitri framework for building smart contract interaction snippets"
+keywords = ["dharitri", "blockchain", "contract", "snippets"]
+categories = ["cryptography::cryptocurrencies"]
+
+[dependencies]
+tokio = { version = "1.24", features = ["full"] }
+hex = "0.4"
+base64 = "0.21.5"
+log = "0.4.17"
+env_logger = "0.10"
+futures = "0.3"
+
+[dependencies.dharitri-sc-scenario]
+version = "=0.45.2"
+path = "../scenario"
+
+[dependencies.dharitri-sdk]
+version = "=0.3.1"
+path = "../../sdk/core"

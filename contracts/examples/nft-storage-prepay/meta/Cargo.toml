@@ -1,0 +1,16 @@
+[package]
+name = "nft-storage-prepay-meta"
+version = "0.0.0"
+authors = [ "Dorin Iancu <dorin.iancu@dharitri.com>",]
+edition = "2021"
+publish = false
+
+[dev-dependencies]
+
+[dependencies.nft-storage-prepay]
+path = ".."
+
+[dependencies.dharitri-sc-meta]
+version = "0.45.2"
+path = "../../../../framework/meta"
+default-features = false
