@@ -18,7 +18,7 @@ fn test_contract_call_multi_dct() {
     );
     assert_eq!(
         cc.to_call_data_string().to_string(),
-        "MultiDCTNFTTransfer@726563697069656e745f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f@02@5745474c442d616263646566@@0a@555344432d616263646566@@0b",
+        "MultiDCTNFTTransfer@726563697069656e745f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f@02@574d4f412d616263646566@@0a@555344432d616263646566@@0b",
     );
     assert!(tx.tx.moa_value.value.is_zero());
     assert_eq!(tx.tx.from.value, cc.basic.to.to_address());

@@ -252,7 +252,7 @@ mod tests {
                       "value": 0,
                       "receiver": "erd14r7m6drneg69jyxvxxnrsss6x5gg2cqqwreyhdwanj0fcza0ynnq5jmy4g",
                       "sender": "erd1qqqqqqqqqqqqqpgq5400a82at6ttplyrdhyn8kk9lhxaed5d0n4s9s77kz",
-                      "data": "DCTTransfer@5745474c442d643763366262@03856446ff9a304b",
+                      "data": "DCTTransfer@574d4f412d643763366262@03856446ff9a304b",
                       "prevTxHash": "d4058bd3c13db0b14832c7c58fe163db2f579ff6544380586b8a27d88b4a5070",
                       "originalTxHash": "d4058bd3c13db0b14832c7c58fe163db2f579ff6544380586b8a27d88b4a5070",
                       "gasLimit": 0,
@@ -304,7 +304,7 @@ mod tests {
                       "value": 102028510000000,
                       "receiver": "erd14r7m6drneg69jyxvxxnrsss6x5gg2cqqwreyhdwanj0fcza0ynnq5jmy4g",
                       "sender": "erd1qqqqqqqqqqqqqpgq5400a82at6ttplyrdhyn8kk9lhxaed5d0n4s9s77kz",
-                      "data": "@6f6b@0000000c5745474c442d64376336626200000000000000000000000803856446ff9a304b@10",
+                      "data": "@6f6b@0000000c574d4f412d64376336626200000000000000000000000803856446ff9a304b@10",
                       "prevTxHash": "d4058bd3c13db0b14832c7c58fe163db2f579ff6544380586b8a27d88b4a5070",
                       "originalTxHash": "d4058bd3c13db0b14832c7c58fe163db2f579ff6544380586b8a27d88b4a5070",
                       "gasLimit": 0,
@@ -332,7 +332,7 @@ mod tests {
                       "value": 0,
                       "receiver": "erd1qqqqqqqqqqqqqpgq5400a82at6ttplyrdhyn8kk9lhxaed5d0n4s9s77kz",
                       "sender": "erd1qqqqqqqqqqqqqpgq5400a82at6ttplyrdhyn8kk9lhxaed5d0n4s9s77kz",
-                      "data": "swapTokensFixedInput@5745474c442d643763366262@037c778fcce9c55b",
+                      "data": "swapTokensFixedInput@574d4f412d643763366262@037c778fcce9c55b",
                       "prevTxHash": "d4058bd3c13db0b14832c7c58fe163db2f579ff6544380586b8a27d88b4a5070",
                       "originalTxHash": "d4058bd3c13db0b14832c7c58fe163db2f579ff6544380586b8a27d88b4a5070",
                       "gasLimit": 25050500,
@@ -347,7 +347,7 @@ mod tests {
                       "value": 0,
                       "receiver": "erd1qqqqqqqqqqqqqpgquu5rsa4ee6l4azz6vdu4hjp8z4p6tt8m0n4suht3dy",
                       "sender": "erd1qqqqqqqqqqqqqpgq5400a82at6ttplyrdhyn8kk9lhxaed5d0n4s9s77kz",
-                      "data": "DCTTransfer@5745474c442d643763366262@e7730d1ef1b0@737761704e6f466565416e64466f7277617264@4d45582d646332383963@0000000000000000000000000000000000000000000000000000000000000000",
+                      "data": "DCTTransfer@574d4f412d643763366262@e7730d1ef1b0@737761704e6f466565416e64466f7277617264@4d45582d646332383963@0000000000000000000000000000000000000000000000000000000000000000",
                       "prevTxHash": "d4058bd3c13db0b14832c7c58fe163db2f579ff6544380586b8a27d88b4a5070",
                       "originalTxHash": "d4058bd3c13db0b14832c7c58fe163db2f579ff6544380586b8a27d88b4a5070",
                       "gasLimit": 0,
@@ -463,7 +463,7 @@ mod tests {
         let tx_response = TxResponse::from_network_tx(tx_on_network);
 
         let expected: Vec<Vec<u8>> = vec![
-            hex::decode("0000000c5745474c442d64376336626200000000000000000000000803856446ff9a304b")
+            hex::decode("0000000c574d4f412d64376336626200000000000000000000000803856446ff9a304b")
                 .unwrap(),
             hex::decode("10").unwrap(),
         ];

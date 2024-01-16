@@ -12,7 +12,7 @@ DEPLOY_GAS="25000000"
 TARGET=10
 
 DEADLINE_UNIX_TIMESTAMP=$(date -d '2100-05-12 00:00:01' +"%s")
-MOA_TOKEN_ID=0x45474c44 # "MOA"
+MOA_TOKEN_ID=0x4d4f41 # "MOA"
 
 deploy() {
     mxpy --verbose contract deploy --project=${PROJECT} --recall-nonce --pem=${ALICE} \

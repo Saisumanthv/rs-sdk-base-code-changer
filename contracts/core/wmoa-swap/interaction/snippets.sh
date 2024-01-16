@@ -35,8 +35,8 @@ upgrade() {
 }
 
 issueWrappedMoa() {
-    local TOKEN_DISPLAY_NAME=0x5772617070656445676c64  # "WrappedMoa"
-    local TOKEN_TICKER=0x5745474c44  # "WMOA"
+    local TOKEN_DISPLAY_NAME=0x577261707065644d6f61  # "WrappedMoa"
+    local TOKEN_TICKER=0x574d4f41  # "WMOA"
     local INITIAL_SUPPLY=0x01 # 1
     local NR_DECIMALS=0x12 # 18
     local CAN_ADD_SPECIAL_ROLES=0x63616e4164645370656369616c526f6c6573 # "canAddSpecialRoles"
@@ -49,8 +49,8 @@ issueWrappedMoa() {
 }
 
 setLocalRoles() {
-    local LOCAL_MINT_ROLE=0x45534454526f6c654c6f63616c4d696e74 # "DCTRoleLocalMint"
-    local LOCAL_BURN_ROLE=0x45534454526f6c654c6f63616c4275726e # "DCTRoleLocalBurn"
+    local LOCAL_MINT_ROLE=0x444354526f6c654c6f63616c4d696e74 # "DCTRoleLocalMint"
+    local LOCAL_BURN_ROLE=0x444354526f6c654c6f63616c4275726e # "DCTRoleLocalBurn"
     local ADDRESS_HEX = $(mxpy wallet bech32 --decode ${ADDRESS})
 
     mxpy --verbose contract call ${DCT_SYSTEM_SC_ADDRESS} --recall-nonce --pem=${ALICE} \
@@ -66,7 +66,7 @@ wrapMoaBob() {
 }
 
 unwrapMoaBob() {
-    local UNWRAP_MOA_ENDPOINT=0x756e7772617045676c64 # "unwrapMoa"
+    local UNWRAP_MOA_ENDPOINT=0x756e777261704d6f61 # "unwrapMoa"
     local UNWRAP_AMOUNT=0x05
 
     getWrappedMoaTokenIdentifier

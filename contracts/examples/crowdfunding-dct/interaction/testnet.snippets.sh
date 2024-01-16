@@ -8,7 +8,7 @@ PROXY=https://testnet-api.dharitri.com
 DEPLOY_GAS="80000000"
 TARGET=10
 DEADLINE_UNIX_TIMESTAMP=1609452000 # Fri Jan 01 2021 00:00:00 GMT+0200 (Eastern European Standard Time)
-MOA_TOKEN_ID=0x45474c44 # "MOA"
+MOA_TOKEN_ID=0x4d4f41 # "MOA"
 
 deploy() {
     mxpy --verbose contract deploy --project=${PROJECT} --recall-nonce --pem=${ALICE} \
