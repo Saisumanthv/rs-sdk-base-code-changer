@@ -281,13 +281,11 @@
                     "0x6f7261636c6534395f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f",
                     "0x6f7261636c6535305f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f5f"
                 ],
-                "gasLimit": "120,000,000",
-                "gasPrice": ""
+                "gasLimit": "120,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -299,13 +297,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -317,13 +313,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -335,13 +329,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -353,13 +345,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -371,13 +361,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -389,13 +377,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -407,13 +393,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -425,13 +409,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -443,13 +425,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -461,13 +441,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -479,13 +457,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -497,13 +473,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -515,13 +489,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -533,13 +505,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -551,13 +521,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -569,13 +537,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -587,13 +553,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -605,13 +569,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -623,13 +585,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -641,13 +601,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -659,13 +617,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -677,13 +633,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -695,13 +649,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -713,13 +665,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -731,13 +681,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -749,13 +697,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -767,13 +713,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -785,13 +729,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -803,13 +745,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -821,13 +761,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -839,13 +777,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -857,13 +793,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -875,13 +809,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -893,13 +825,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -911,13 +841,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -929,13 +857,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -947,13 +873,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -965,13 +889,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -983,13 +905,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1001,13 +921,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1019,13 +937,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1037,13 +953,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1055,13 +969,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1073,13 +985,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1091,13 +1001,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1109,13 +1017,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1127,13 +1033,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1145,13 +1049,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1163,13 +1065,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1181,13 +1081,11 @@
                 "moaValue": "20",
                 "function": "stake",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1202,13 +1100,11 @@
                     "0x55534443",
                     "0x"
                 ],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1219,13 +1115,11 @@
                 "to": "sc:price-aggregator",
                 "function": "unpause",
                 "arguments": [],
-                "gasLimit": "5,000,000",
-                "gasPrice": ""
+                "gasLimit": "5,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1239,16 +1133,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x5f",
-                    "0x619911dbb570258c",
+                    "0x22596d598d223062",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1262,16 +1154,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x3cf8d3d3a05bf655",
+                    "0xd1b11d5ec71ba246",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1285,16 +1175,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x4d92440172e0bf71",
+                    "0x37cfe3d6cd5c4b18",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1308,16 +1196,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xd971ed41066daa08",
+                    "0xd4a51565accc82ff",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1331,16 +1217,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x34a9348cb04afbd1",
+                    "0x9d6a3ed6411e6cbd",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1354,16 +1238,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x6c01a77d55c0861f",
+                    "0xd1f410ddf34652d2",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1377,16 +1259,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xea1e93f2b82ec0f6",
+                    "0x60629c9119948fbe",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1400,16 +1280,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x2f067fee00bbd5bc",
+                    "0x1c38a6a16863abf9",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1423,16 +1301,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x1706fe5397a21f74",
+                    "0x251a5498c08e0729",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1446,16 +1322,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xbffd5631e9e448a8",
+                    "0x1a75ecb2c0d994b5",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1469,16 +1343,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x1940496d3bc8934c",
+                    "0x3e8114a21896e1cf",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1492,16 +1364,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xbd0af0d3aba30235",
+                    "0xe128ae5b9ece0892",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1515,16 +1385,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xebcf9494ec0fac0c",
+                    "0xe4c14eb9a7cbacec",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1538,16 +1406,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x7aeb67c3eabe498c",
+                    "0x669537b9b355c574",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1561,16 +1427,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x5c758d17b8445f7f",
+                    "0x245ea9908cf5cd5b",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1584,16 +1448,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x6978fe48b9a58974",
+                    "0x1f39291601a12127",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1607,16 +1469,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x8692c26f665bc7ad",
+                    "0x02acffcb4175bdaf",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1630,16 +1490,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x2d3a93b7522e72b6",
+                    "0x244d159c4a69fb30",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1653,16 +1511,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x4faa49415e935688",
+                    "0x607e9c2be0d2945f",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1676,16 +1532,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x5cbca2cc253dbf54",
+                    "0xa544484cb77fa56a",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1699,16 +1553,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xdd20d194dd695735",
+                    "0x118743093e318632",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1722,16 +1574,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x32f039c1765a2ec3",
+                    "0x994b63a4266b9f0d",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1745,16 +1595,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x84372c9de3d535d9",
+                    "0xb1147578dccb6bed",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1768,16 +1616,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x91b23ed59de93417",
+                    "0xf98c81e8f3df8efc",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1791,16 +1637,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x4b81d1a55887f5f9",
+                    "0x559a9680eef27430",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1814,16 +1658,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xd88e348ef6679e1d",
+                    "0xce6c4bf99d84243f",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1837,16 +1679,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x2557834dc8059cc7",
+                    "0x6f6542e88c83e091",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1860,16 +1700,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x22d86f8317546033",
+                    "0xa8355e18a57eafcd",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1883,16 +1721,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x5a775ddd32ca5367",
+                    "0x3d78195d025936",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1906,16 +1742,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x59f049471cd2662c",
+                    "0x0fc6c578f8011e86",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1929,16 +1763,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xb59fdc2aedbf845f",
+                    "0x3eaf79ef231a5b81",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1952,16 +1784,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xab13e96eb802f883",
+                    "0xbd3cf524b6868ae9",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1975,16 +1805,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xf6f152ab53ad7170",
+                    "0x594eefdf1b7af931",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -1998,16 +1826,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x5bae78b87d516979",
+                    "0x70458c877fb93f8d",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2021,16 +1847,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xe47859cc0fdb0abe",
+                    "0x7fa4d0f11f73313a",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2044,16 +1868,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x7c36ab1fa1a348b4",
+                    "0xdb726c6447e497fe",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2067,16 +1889,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x7fda3ef39b74e04b",
+                    "0x61d3b244be3e0d1b",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2090,16 +1910,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x461d81a84db50115",
+                    "0xeb305473fbeddca4",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2113,16 +1931,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xcc0ab8ccc363dd0c",
+                    "0x24e244e068aecbe5",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2136,16 +1952,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x11c15058c7c6c1fa",
+                    "0xec1da12768676f97",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2159,16 +1973,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x293b700535555d4f",
+                    "0x76ebd5689a8236c1",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2182,16 +1994,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x4e8d04d2f0e53efd",
+                    "0xcfb97bd548fa23a1",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2205,16 +2015,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x42be3651d7b9499e",
+                    "0xe59b76f7e373e0d6",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2228,16 +2036,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xb82a437fc87cd8a0",
+                    "0x5bcdcc6ba47fe127",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2251,16 +2057,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xb12ebd0d9ff3f396",
+                    "0x6e8dced10efc02fb",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2274,16 +2078,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x85b4d01e5a20d445",
+                    "0xf9f60d7c9af7ce0d",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2297,16 +2099,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x92edaca582002375",
+                    "0x263346157e859bc1",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2320,16 +2120,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x351151b47fee6331",
+                    "0x77954da310cd4df1",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2343,16 +2141,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0x9155d2992ceb6beb",
+                    "0x2b1abd7b82f87cf5",
                     "0x"
                 ],
-                "gasLimit": "7,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         },
         {
@@ -2366,16 +2162,14 @@
                     "0x4d4f41",
                     "0x55534443",
                     "0x64",
-                    "0xdbc0895ce5855dec",
+                    "0x68c666df92d6f093",
                     "0x"
                 ],
-                "gasLimit": "50,000,000",
-                "gasPrice": ""
+                "gasLimit": "7,000,000"
             },
             "expect": {
                 "out": [],
-                "status": "0",
-                "refund": "*"
+                "status": "0"
             }
         }
     ]
